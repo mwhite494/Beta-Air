@@ -1,6 +1,7 @@
 # Beta Air
 
-2016 UVM SEED Team #14\n
+2016 UVM SEED Team #14
+
 Redesigning the Pilot Interface
 
 This repository contains the Arduino programs and other relevant files associated with the 2016 UVM SEED Team #14 engineering design project.
